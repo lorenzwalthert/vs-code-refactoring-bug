@@ -1,1 +1,1 @@
-stuff
+Reprex for https://github.com/microsoft/pylance-release/issues/5605
